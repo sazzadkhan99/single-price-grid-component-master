@@ -32,8 +32,8 @@ Build a responsive recipe page using semantic HTML and clean CSS that matches a 
 
 ### Links
 
-- Solution URL: https://github.com/sazzadkhan99/stats-preview-card-component
-- Live Site URL: https://sazzadkhan99.github.io/stats-preview-card-component
+- Solution URL: https://github.com/sazzadkhan99/single-price-grid-component-master
+- Live Site URL: https://sazzadkhan99.github.io/single-price-grid-component-master
 
 ## My process
 
